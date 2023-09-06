@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\solo-projects\\DiceGame\\TestProject.csproj": {}
+    "d:\\solo-projects\\DiceGame\\TestProject.csproj": {}
   },
   "projects": {
-    "D:\\solo-projects\\DiceGame\\TestProject.csproj": {
+    "d:\\solo-projects\\DiceGame\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\solo-projects\\DiceGame\\TestProject.csproj",
+        "projectUniqueName": "d:\\solo-projects\\DiceGame\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "D:\\solo-projects\\DiceGame\\TestProject.csproj",
+        "projectPath": "d:\\solo-projects\\DiceGame\\TestProject.csproj",
         "packagesPath": "C:\\Users\\Scooter\\.nuget\\packages\\",
-        "outputPath": "D:\\solo-projects\\DiceGame\\obj\\",
+        "outputPath": "d:\\solo-projects\\DiceGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Scooter\\AppData\\Roaming\\NuGet\\NuGet.Config"
